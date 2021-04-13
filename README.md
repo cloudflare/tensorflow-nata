@@ -22,7 +22,7 @@ nata-model
     └───not-pastel
 ```
 
-Setup your python environment:
+Setup your python environment using python 3.7.10:
 
   ```
   python3 -m venv venv
